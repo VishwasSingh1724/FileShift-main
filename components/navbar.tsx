@@ -40,10 +40,10 @@ export default function Navbar({}): any {
           </Button>
         </Link>
       </div>
-      <Link href="https://github.com/benlhachemi/FileShift.git">
+      <Link href="https://github.com/VishwasSingh1724/FileShift-main">
         <Button
           variant="default"
-          className="rounded-full w-fit bg-orange-600 gap-2 items-center hidden md:flex"
+          className="rounded-full w-fit bg-orange-400 gap-2 items-center hidden md:flex"
           size="lg"
         >
           <span>Github Repo</span>
